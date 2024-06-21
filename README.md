@@ -25,7 +25,7 @@ Hosted on GitHub pages [here](https://mikhad.github.io/wordle/).
 - Give Up button.
 
 ## Additional modes
-The game mode can be changed by clicking WORDLE+ at the top of the screen or swiping the board in either direction.
+The game mode can be changed by clicking WIERDER at the top of the screen or swiping the board in either direction.
 
 **Hourly mode**: A new word every hour.
 
