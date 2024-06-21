@@ -130,7 +130,7 @@ export function contractNum(n: number) {
 	}
 }
 
-export const keys = ["qwertyuiop", "asdfghjkl", "zxcvbnm"];
+export const keys = ["qwertzuiopü", "asdfghjklöä", "yxcvbnmë"];
 
 /**
  * Return a deterministic number based on the given mode and current or given time.
